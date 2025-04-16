@@ -32,7 +32,7 @@ This thesis presents a multi-modal perception system designed for robots in busi
 
 
 
-## 3. *Understanding the Evaluation Abilities of External Cluster Validity Indices to Internal Ones*, 2021
+## 3. *Understanding the Evaluation Abilities of External Cluster Validity Indices to Internal Ones*, 2020
 **Intro:** This paper tackles the problem of evaluating the effectiveness of internal Cluster Validity Indices (CVIs). Existing methods, including NC-based and external CVI-based approaches, often fail under various data scenarios. To address this, the authors propose a novel method named CAMER (CVI Ability MEasurement via Ranking consistency), which quantitatively measures the evaluation ability of external CVIs through rank consistency metrics like Kendall’s Tau and Spearman's Footrule. 
 
 **Key contributions:**
